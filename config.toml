@@ -53,7 +53,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   [params.author]
     author__name = "Jason Vriends"
     author__bio = "A Lay Pastor with Canadian Baptists of Ontario and Quebec and Senior IT Strategist."
-    author__avatar = "https://photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg"
+    author__avatar = "/images/avatar.jpg"
 
   # Social Links
   [[params.social]]
@@ -92,7 +92,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
       "Exploring the virtual skies of Microsoft Flight Simulator and X-Plane.",
       "Promoting health and wellness through lifestyle."
     ]
-    hero__image = "https://via.placeholder.com/1200x800"
+    hero__image = "/images/home/home-hero.png"
 
 
     #-------------------------------

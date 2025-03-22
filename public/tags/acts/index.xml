@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acts on Jason Vriends</title>
-    <link>http://localhost:1313/tags/acts/</link>
+    <link>http://localhost:39759/tags/acts/</link>
     <description>Recent content in Acts on Jason Vriends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/acts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39759/tags/acts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peter&#39;s Sermon at Pentecost</title>
-      <link>http://localhost:1313/posts/peters-sermon-at-pentecost/</link>
+      <link>http://localhost:39759/posts/peters-sermon-at-pentecost/</link>
       <pubDate>Sun, 19 May 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/peters-sermon-at-pentecost/</guid>
+      <guid>http://localhost:39759/posts/peters-sermon-at-pentecost/</guid>
       <description>Scripture: Acts 2:1-14 MSG 2 1-4 When the Feast of Pentecost came, they were all together in one place. Without warning there was a sound like a strong wind, gale force—no one could tell where it came from. It filled the whole building. Then, like a wildfire, the Holy Spirit spread through their ranks, and they started speaking in a number of different languages as the Spirit prompted them.</description>
     </item>
   </channel>
