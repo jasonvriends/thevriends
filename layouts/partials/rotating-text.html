@@ -1,0 +1,152 @@
+{{ $baseText := .Site.Params.hero.hero__description }}
+{{ $descriptions := .Site.Params.hero.hero__rotating_descriptions }}
+{{ $roleDescriptions := .Site.Params.hero.hero__role_descriptions }}
+
+<div class="rotating-text">
+  <div class="rotating-line">
+    <span class="base-text">{{ $baseText }}</span>
+    <span class="rotating-descriptions">
+      {{ range $index, $description := $descriptions }}
+        <span class="rotating-item" data-text="{{ $description }}" style="display: {{ if eq $index 0 }}inline{{ else }}none{{ end }}">{{ $description }}</span>
+      {{ end }}
+    </span>
+  </div>
+  <div class="rotating-description-line">
+    {{ range $index, $description := $roleDescriptions }}
+      <span class="rotating-description" style="display: {{ if eq $index 0 }}block{{ else }}none{{ end }}">{{ $description }}</span>
+    {{ end }}
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const rotatingItems = document.querySelectorAll('.rotating-item');
+  const rotatingDescriptions = document.querySelectorAll('.rotating-description');
+  let currentIndex = 0;
+  let currentChar = 0;
+  let isTyping = true;
+  let currentRole = '';
+  let isDeleting = false;
+
+  function typeWriter() {
+    if (isTyping) {
+      if (!isDeleting) {
+        // Forward typing
+        if (currentChar < currentRole.length) {
+          rotatingItems[currentIndex].textContent = currentRole.substring(0, currentChar + 1);
+          currentChar++;
+          setTimeout(typeWriter, 100);
+        } else {
+          // Wait before starting to delete
+          setTimeout(() => {
+            isDeleting = true;
+            typeWriter();
+          }, 2000);
+        }
+      } else {
+        // Reverse typing
+        if (currentChar > 0) {
+          rotatingItems[currentIndex].textContent = currentRole.substring(0, currentChar - 1);
+          currentChar--;
+          setTimeout(typeWriter, 50);
+        } else {
+          // Reset for next role
+          isDeleting = false;
+          setTimeout(() => {
+            rotateText();
+          }, 1000);
+        }
+      }
+    }
+  }
+
+  function rotateText() {
+    // Fade out current items
+    rotatingItems[currentIndex].style.opacity = '0';
+    rotatingDescriptions[currentIndex].style.opacity = '0';
+    
+    setTimeout(() => {
+      // Hide current items
+      rotatingItems[currentIndex].style.display = 'none';
+      rotatingDescriptions[currentIndex].style.display = 'none';
+      
+      // Move to next items
+      currentIndex = (currentIndex + 1) % rotatingItems.length;
+      
+      // Reset typing state
+      currentChar = 0;
+      isTyping = true;
+      isDeleting = false;
+      
+      // Get the next role from the data attribute
+      currentRole = rotatingItems[currentIndex].getAttribute('data-text');
+      rotatingItems[currentIndex].textContent = '';
+      
+      // Show next items and start typing
+      rotatingItems[currentIndex].style.display = 'inline';
+      rotatingDescriptions[currentIndex].style.display = 'block';
+      
+      setTimeout(() => {
+        rotatingItems[currentIndex].style.opacity = '1';
+        rotatingDescriptions[currentIndex].style.opacity = '1';
+        typeWriter();
+      }, 50);
+    }, 500);
+  }
+
+  // Start the first typing animation
+  currentRole = rotatingItems[0].getAttribute('data-text');
+  rotatingItems[0].textContent = '';
+  typeWriter();
+});
+</script>
+
+<style>
+.rotating-text {
+  display: inline-block;
+  font-weight: 700;
+}
+
+.rotating-line {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.rotating-descriptions {
+  display: inline-block;
+  color: #007bff;
+}
+
+.rotating-item {
+  display: none;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+  position: relative;
+  padding-right: 5px;
+}
+
+.rotating-item::after {
+  content: '|';
+  position: absolute;
+  right: 0;
+  animation: blink 0.7s infinite;
+}
+
+.rotating-description-line {
+  display: block;
+  font-size: 0.9em;
+  font-weight: normal;
+  color: #666;
+}
+
+.rotating-description {
+  display: none;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style> 

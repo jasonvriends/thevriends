@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 Peter on Jason Vriends</title>
+    <link>http://localhost:40209/tags/1-peter/</link>
+    <description>Recent content in 1 Peter on Jason Vriends</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2023 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:40209/tags/1-peter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Priesthood of All Believers</title>
+      <link>http://localhost:40209/sermons/priesthood-of-all-believers/</link>
+      <pubDate>Sun, 29 Oct 2023 10:00:00 +0000</pubDate>
+      <guid>http://localhost:40209/sermons/priesthood-of-all-believers/</guid>
+      <description>1 Peter 2:9-10 NIV 9 But you are a chosen people, a royal priesthood, a holy nation, God&amp;rsquo;s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. 10 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.</description>
+    </item>
+  </channel>
+</rss>
