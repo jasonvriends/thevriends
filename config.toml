@@ -59,38 +59,17 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "Twitter"
-    link = "https://twitter.com"
-
-  [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-
-  [[params.social]]
-    icon = "ion-logo-instagram"
-    name = "Instagram"
-    link = "https://instagram.com"
-
-  [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
+    link = "https://x.com/JasonVriends"
 
   [[params.social]]
     icon = "ion-logo-github"
     name = "Github"
-    link = "https://github.com"
+    link = "https://github.com/jasonvriends"
 
   [[params.social]]
-    icon = "ion-logo-vimeo"
-    name = "Vimeo"
-    link = "https://vimeo.com"
-
-  # Example of adding a new link to the footer:
-  # [[params.social]]
-  #   icon = "ion-logo-youtube"
-  #   name = "Youtube"
-  #   link = "https://youtube.com"
+    icon = "ion-logo-youtube"
+    name = "Youtube"
+    link = "https://www.youtube.com/@JasonVriends"
 
   # Other icons can be found at https://ionicons.com/v4/
 
@@ -252,7 +231,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   #-------------------------------
   # Contact Settings
   [params.contact]
-    contact__email = "your@email.com" # Add your form_id
+    contact__email = "myzewkvb" # Add your form_id
 
     # NOTE
     # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
