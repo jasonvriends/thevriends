@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luke on Jason Vriends</title>
-    <link>http://localhost:39759/tags/luke/</link>
+    <link>http://localhost:45883/tags/luke/</link>
     <description>Recent content in Luke on Jason Vriends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:39759/tags/luke/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45883/tags/luke/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Privilege of God&#39;s Presence</title>
-      <link>http://localhost:39759/posts/the-privilege-of-gods-presence/</link>
+      <link>http://localhost:45883/posts/the-privilege-of-gods-presence/</link>
       <pubDate>Sun, 01 Sep 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:39759/posts/the-privilege-of-gods-presence/</guid>
+      <guid>http://localhost:45883/posts/the-privilege-of-gods-presence/</guid>
       <description>Scripture: Luke 10:38 ERV 38 While Jesus and his followers were traveling, he went into a town, and a woman named Martha let him stay at her house. 39 She had a sister named Mary. Mary was sitting at Jesus&amp;rsquo; feet and listening to him teach. 40 But her sister Martha was busy doing all the work that had to be done. Martha went in and said, &amp;ldquo;Lord, don&amp;rsquo;t you care that my sister has left me to do all the work by myself?</description>
     </item>
   </channel>
