@@ -2,72 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:45883/tags/1-corinthians/</loc>
+    <loc>http://localhost:1313/posts/dont-feed-thefoxes/</loc>
+    <lastmod>2025-05-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sermons/</loc>
+    <lastmod>2025-05-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/song-of-solomon/</loc>
+    <lastmod>2025-05-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-04T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/1-corinthians/</loc>
     <lastmod>2025-02-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/</loc>
+    <loc>http://localhost:1313/posts/love-now-to-forever-hold-his-peace/</loc>
     <lastmod>2025-02-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/posts/love-now-to-forever-hold-his-peace/</loc>
-    <lastmod>2025-02-23T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:45883/posts/</loc>
-    <lastmod>2025-02-23T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:45883/tags/sermons/</loc>
-    <lastmod>2025-02-23T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:45883/tags/</loc>
-    <lastmod>2025-02-23T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:45883/posts/servants-not-superstars/</loc>
+    <loc>http://localhost:1313/posts/servants-not-superstars/</loc>
     <lastmod>2024-09-29T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/tags/luke/</loc>
+    <loc>http://localhost:1313/tags/luke/</loc>
     <lastmod>2024-09-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/posts/the-privilege-of-gods-presence/</loc>
+    <loc>http://localhost:1313/posts/the-privilege-of-gods-presence/</loc>
     <lastmod>2024-09-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/tags/acts/</loc>
+    <loc>http://localhost:1313/tags/acts/</loc>
     <lastmod>2024-05-19T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/posts/peters-sermon-at-pentecost/</loc>
+    <loc>http://localhost:1313/posts/peters-sermon-at-pentecost/</loc>
     <lastmod>2024-05-19T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/tags/1-peter/</loc>
+    <loc>http://localhost:1313/tags/1-peter/</loc>
     <lastmod>2023-10-29T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/posts/priesthood-of-all-believers/</loc>
+    <loc>http://localhost:1313/posts/priesthood-of-all-believers/</loc>
     <lastmod>2023-10-29T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/music-love-fest/</loc>
+    <loc>http://localhost:1313/works/music-love-fest/</loc>
     <lastmod>2022-01-10T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/</loc>
+    <loc>http://localhost:1313/works/</loc>
     <lastmod>2022-01-10T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/jazz-concert/</loc>
+    <loc>http://localhost:1313/works/jazz-concert/</loc>
     <lastmod>2022-01-09T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/geametric-band/</loc>
+    <loc>http://localhost:1313/works/geametric-band/</loc>
     <lastmod>2022-01-08T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/music-festival/</loc>
+    <loc>http://localhost:1313/works/music-festival/</loc>
     <lastmod>2022-01-07T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/festival-of-colors/</loc>
+    <loc>http://localhost:1313/works/festival-of-colors/</loc>
     <lastmod>2022-01-06T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/works/mental-health/</loc>
+    <loc>http://localhost:1313/works/mental-health/</loc>
     <lastmod>2022-01-05T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:45883/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:45883/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:45883/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:45883/elements/</loc>
+    <loc>http://localhost:1313/elements/</loc>
   </url>
 </urlset>

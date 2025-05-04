@@ -2,108 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Vriends</title>
-    <link>http://localhost:45883/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jason Vriends</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2025 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:45883/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 May 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t Feed The Foxes</title>
+      <link>http://localhost:1313/posts/dont-feed-thefoxes/</link>
+      <pubDate>Sun, 04 May 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dont-feed-thefoxes/</guid>
+      <description>Scripture: SONG OF SOLOMON 2:13-17 (NASB) 13 The fig tree has ripened its fruit, and the vines in blossom have given forth their fragrance. Arise, my darling, my beautiful one, and come along! 14 My dove, in the clefts of the rock, in the hiding place of the mountain pathway, let me see how you look, let me hear your voice; for your voice is pleasant, and you look delightful.</description>
+    </item>
     <item>
       <title>Love Now To Forever Hold His Peace</title>
-      <link>http://localhost:45883/posts/love-now-to-forever-hold-his-peace/</link>
+      <link>http://localhost:1313/posts/love-now-to-forever-hold-his-peace/</link>
       <pubDate>Sun, 23 Feb 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/posts/love-now-to-forever-hold-his-peace/</guid>
+      <guid>http://localhost:1313/posts/love-now-to-forever-hold-his-peace/</guid>
       <description>Scripture: 1 CORINTHIANS 13 (NASB) 1 If I speak with the tongues of mankind and of angels, but do not have love, I have become a noisy gong or a clanging cymbal. 2 If I have the gift of prophecy and know all mysteries and all knowledge, and if I have all faith so as to remove mountains, but do not have love, I am nothing. 3 And if I give away all my possessions to charity, and if I surrender my body so that I may glory, but do not have love, it does me no good.</description>
     </item>
     <item>
       <title>Servants, Not Superstars</title>
-      <link>http://localhost:45883/posts/servants-not-superstars/</link>
+      <link>http://localhost:1313/posts/servants-not-superstars/</link>
       <pubDate>Sun, 29 Sep 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/posts/servants-not-superstars/</guid>
+      <guid>http://localhost:1313/posts/servants-not-superstars/</guid>
       <description>Scripture: 1 Corinthians 3:4-11 (EASY) 4 Some of you say, &amp;ldquo;Paul is my leader.&amp;rdquo; And other people say, &amp;ldquo;Apollos is my leader.&amp;rdquo; When you speak like that, you are talking like people who belong to this world. 5 Is Apollos important? Is Paul important? No! We are God&amp;rsquo;s servants. We told you God&amp;rsquo;s good news and you believed it. Each of us is doing the job which the Lord has given to us.</description>
     </item>
     <item>
       <title>The Privilege of God&#39;s Presence</title>
-      <link>http://localhost:45883/posts/the-privilege-of-gods-presence/</link>
+      <link>http://localhost:1313/posts/the-privilege-of-gods-presence/</link>
       <pubDate>Sun, 01 Sep 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/posts/the-privilege-of-gods-presence/</guid>
+      <guid>http://localhost:1313/posts/the-privilege-of-gods-presence/</guid>
       <description>Scripture: Luke 10:38 ERV 38 While Jesus and his followers were traveling, he went into a town, and a woman named Martha let him stay at her house. 39 She had a sister named Mary. Mary was sitting at Jesus&amp;rsquo; feet and listening to him teach. 40 But her sister Martha was busy doing all the work that had to be done. Martha went in and said, &amp;ldquo;Lord, don&amp;rsquo;t you care that my sister has left me to do all the work by myself?</description>
     </item>
     <item>
       <title>Peter&#39;s Sermon at Pentecost</title>
-      <link>http://localhost:45883/posts/peters-sermon-at-pentecost/</link>
+      <link>http://localhost:1313/posts/peters-sermon-at-pentecost/</link>
       <pubDate>Sun, 19 May 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/posts/peters-sermon-at-pentecost/</guid>
+      <guid>http://localhost:1313/posts/peters-sermon-at-pentecost/</guid>
       <description>Scripture: Acts 2:1-14 MSG 2 1-4 When the Feast of Pentecost came, they were all together in one place. Without warning there was a sound like a strong wind, gale force—no one could tell where it came from. It filled the whole building. Then, like a wildfire, the Holy Spirit spread through their ranks, and they started speaking in a number of different languages as the Spirit prompted them.</description>
     </item>
     <item>
       <title>The Priesthood of All Believers</title>
-      <link>http://localhost:45883/posts/priesthood-of-all-believers/</link>
+      <link>http://localhost:1313/posts/priesthood-of-all-believers/</link>
       <pubDate>Sun, 29 Oct 2023 10:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/posts/priesthood-of-all-believers/</guid>
+      <guid>http://localhost:1313/posts/priesthood-of-all-believers/</guid>
       <description>Scripture: 1 Peter 2:9-10 NIV 9 But you are a chosen people, a royal priesthood, a holy nation, God&amp;rsquo;s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. 10 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.&#xA;Transcript My wife is from New Brunswick, and my brother and I are from Prince Edward Island.</description>
     </item>
     <item>
       <title>Music love fest</title>
-      <link>http://localhost:45883/works/music-love-fest/</link>
+      <link>http://localhost:1313/works/music-love-fest/</link>
       <pubDate>Mon, 10 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:45883/works/music-love-fest/</guid>
+      <guid>http://localhost:1313/works/music-love-fest/</guid>
       <description>Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&#xA;Photo by Freepik There are several other types of books which are not commonly found under this system.</description>
     </item>
     <item>
       <title>Jazz concert</title>
-      <link>http://localhost:45883/works/jazz-concert/</link>
+      <link>http://localhost:1313/works/jazz-concert/</link>
       <pubDate>Sun, 09 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:45883/works/jazz-concert/</guid>
+      <guid>http://localhost:1313/works/jazz-concert/</guid>
       <description>Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&#xA;Photo by Freepik There are several other types of books which are not commonly found under this system.</description>
     </item>
     <item>
       <title>Geametric band</title>
-      <link>http://localhost:45883/works/geametric-band/</link>
+      <link>http://localhost:1313/works/geametric-band/</link>
       <pubDate>Sat, 08 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:45883/works/geametric-band/</guid>
+      <guid>http://localhost:1313/works/geametric-band/</guid>
       <description>Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&#xA;Photo by Freepik There are several other types of books which are not commonly found under this system.</description>
     </item>
     <item>
       <title>Music festival</title>
-      <link>http://localhost:45883/works/music-festival/</link>
+      <link>http://localhost:1313/works/music-festival/</link>
       <pubDate>Fri, 07 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:45883/works/music-festival/</guid>
+      <guid>http://localhost:1313/works/music-festival/</guid>
       <description>Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&#xA;Photo by Freepik There are several other types of books which are not commonly found under this system.</description>
     </item>
     <item>
       <title>Festival of colors</title>
-      <link>http://localhost:45883/works/festival-of-colors/</link>
+      <link>http://localhost:1313/works/festival-of-colors/</link>
       <pubDate>Thu, 06 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:45883/works/festival-of-colors/</guid>
+      <guid>http://localhost:1313/works/festival-of-colors/</guid>
       <description>Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&#xA;Photo by Freepik There are several other types of books which are not commonly found under this system.</description>
     </item>
     <item>
       <title>Mental health</title>
-      <link>http://localhost:45883/works/mental-health/</link>
+      <link>http://localhost:1313/works/mental-health/</link>
       <pubDate>Wed, 05 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:45883/works/mental-health/</guid>
+      <guid>http://localhost:1313/works/mental-health/</guid>
       <description>Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&#xA;Photo by Freepik There are several other types of books which are not commonly found under this system.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:45883/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>I&amp;rsquo;m a Lay Pastor with the Canadian Baptists of Ontario and Quebec (CBOQ) and a Certified AWS and Microsoft Azure Solutions Architect with over 20 years of experience in Information Technology. In my dual role, I serve both the spiritual and technological needs of our community, driving digital transformation in the workplace while guiding others in their faith journey.&#xA;Currently, I serve as a Government of Canada IT Senior Strategist (IT-05) at the Treasury Board Secretariat, seconded to Employment and Social Development Canada, where I&amp;rsquo;m transforming their cloud operating model to support initiatives like Benefit Delivery Modernization.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:45883/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Let&amp;rsquo;s Work Together I&amp;rsquo;m available for various services in and around the Ottawa, Ontario area:&#xA;Technology Consulting &amp;amp; Projects Cloud architecture and digital transformation consulting IT strategy and modernization planning Technical leadership and team mentoring Project management and implementation support Custom technology solutions for organizations Ministry &amp;amp; Pulpit Supply Pulpit supply and guest speaking Worship leadership Special services and events Ministry technology consulting Church digital transformation support Speaking &amp;amp; Teaching Technology workshops and training Faith and technology integration talks Leadership development sessions Community engagement events Get in Touch I&amp;rsquo;d love to hear from you!</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:45883/elements/</link>
+      <link>http://localhost:1313/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45883/elements/</guid>
+      <guid>http://localhost:1313/elements/</guid>
       <description>A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.&#xA;Headings by default: H1 Default styles for headings H2 Default styles for headings H3 Default styles for headings H4 Default styles for headings H5 Default styles for headings H6 Default styles for headings Lists Ordered list example: Poutine drinking vinegar bitters.</description>
     </item>
   </channel>
