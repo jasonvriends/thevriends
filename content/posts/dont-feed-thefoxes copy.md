@@ -8,7 +8,7 @@ image_caption: ''
 layout: 'sermon'
 ---
 
-<p><iframe src="https://www.youtube.com/embed/46xQ8FmOJAo?si=VKREgXwbjGK1vbbc" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/ufne3nShfJU?si=d4SnVOny68rVdyqM" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ## Scripture: [GENESIS 1:26-28 (NASB)](https://www.biblegateway.com/passage/?search=GENESIS%201%3A26-28&version=NASB)
 
