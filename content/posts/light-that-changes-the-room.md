@@ -8,7 +8,7 @@ image_caption: ''
 layout: 'sermon'
 ---
 
-<p><iframe src="https://youtu.be/78Bm7RoMFwk?feature=shared" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/78Bm7RoMFwk?si=NPzR5iuD2TrYByQx" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ## Scripture: [MATTHEW 5:14–16 (NASB)](https://www.biblegateway.com/passage/?search=Matthew%205%3A14-16&version=NASB)
 
