@@ -16,8 +16,6 @@ layout: 'sermon'
 
 ## Transcript
 
-# Who's Got Your Back - Sermon Transcript
-
 Good morning, everyone. If we haven't met before, I'm Jason, one of your Lay Pastors. Today, I want to talk about something that we all struggle with. Putting together IKEA furniture.
 
 Imagine this. It's Sunday morning, the sun's shining, and you've got your coffee. Today's the day. You're finally making that trip to IKEA. You hop in the car, and drive to that big blue and yellow warehouse. You grab your cart and start weaving through the maze. And then, finally, you find it. The Billy bookcase.
