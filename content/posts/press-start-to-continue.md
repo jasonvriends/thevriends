@@ -1,7 +1,7 @@
 ---
 title: Press START to Continue
 description: No matter how far you have fallen, God's mercy hits reset every morning. Jeremiah sat in the rubble of Jerusalem and found something we still need today. God's mercy never runs out, it's new every morning, and it meets you right where you are. You don't have to clean yourself up first. You just have to turn toward Jesus with whatever you're holding.
-date: 2025-05-04 10:00:00 +0000
+date: 2026-04-26 10:00:00 +0000
 tags: [sermons, Lamentations]
 image: '/images/sermons/press-start-to-continue.jpg'
 image_caption: ''
